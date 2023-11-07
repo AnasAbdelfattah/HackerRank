@@ -1,2 +1,2 @@
 # HackerRank
-This repo contain all challenges i solved in HacerRank website 
+This repo contain all challenges I solved in HacerRank website 
